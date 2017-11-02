@@ -3,29 +3,29 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #Number 03
 * Test Case Name:
-  * #Number
+  * #NumberSingle player  _3.5
 * Component: 
-  * Description
+  * Description testing  the  single player and  bulid  modes  controls  and features  
 * Test Case Designer:
-  * Name
+  * Name George " Trey" Broughton
 * Creation Date:
-  * Date
+  * Date 10/23/17
 * Modified By:
-  * Name
+  * Name George " Trey" Broughton
 * Modified Date:
-  * Date
+  * Date 11/01/17 
 * Requirements Covered:
-  * Description
+  * Description-Characterization nad controls
 * Test Description/Purpose:
-  * Description
+  * Description testing  the story mode  and  bulid  mode  gameplay controls  
 * Pre-Test Conditions:
-  * Description
+  * Description program  should allow player to load  the  story  and  bulid  mode   
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | |the user has decided to play the game as a single player. There is no online aspect of the game play. Users can start a new game or load a previous game. In story mode there are six characters the user can choose to play as. Each character will present a different set of puzzles the user has to beat in order to complete the game | |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
