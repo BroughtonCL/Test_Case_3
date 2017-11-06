@@ -25,13 +25,14 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | |the user has decided to play the game as a single player. There is no online aspect of the game play. Users can start a new game or load a previous game. In story mode there are six characters the user can choose to play as. Each character will present a different set of puzzles the user has to beat in order to complete the game | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
+| 1 |Story Mode |the user has decided to play the game as a single player. There is no online aspect of the game play. Users can start a new game or load a previous game. In story mode there are six characters the user can choose to play as. Each character will present a different set of puzzles the user has to beat in order to complete the game | |			
+| 2 |Save Game Requirements |Only works in story mode. Can't not  work in  bulid mode. | |			
+| 3 |Load Game Requirements | Only works in story mode.Game data in online mode is loaded from the database.| |			
+| 4 |Play Driver Requirements |Only works in story mode.You can’t pause the game in online mode, its constantly running whether the user is there or not. | |			
+| 5 |Menu Driver Requirements |Load the appropriate menu when asked. | |			
+| 6 | Graphic Driver Requirements|Load all of the game graphics. | |			
+| 7 |Database Connection Requirements |Only works in build mode.
+Rationale: | |			
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |			
